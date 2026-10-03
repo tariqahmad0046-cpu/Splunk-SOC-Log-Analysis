@@ -1,0 +1,10 @@
+# Enrich events with lookup data
+index="main"
+| lookup pakistan_ip_lookup src_ip OUTPUT department city country threat_level
+| table _time user src_ip department city country threat_level EventCode
+
+# High-risk enriched events
+index="main"
+| lookup pakistan_ip_lookup src_ip OUTPUT department city country threat_level
+| where threat_level="High"
+| table _time user src_ip department city country threat_level EventCode

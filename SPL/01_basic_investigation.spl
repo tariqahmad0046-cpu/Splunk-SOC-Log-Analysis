@@ -1,0 +1,9 @@
+# EventCode frequency
+index="main"
+| stats count by EventCode
+| sort - count
+
+# Latest events
+index="main"
+| sort - _time
+| head 10

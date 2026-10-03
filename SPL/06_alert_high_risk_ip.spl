@@ -1,0 +1,7 @@
+# Scheduled alert: High Risk IP Detection
+| inputlookup pakistan_ip_lookup
+| search threat_level="High"
+| stats count by ip_address city department country threat_level
+| sort - count
+
+# Trigger condition in Splunk: Number of Results > 0

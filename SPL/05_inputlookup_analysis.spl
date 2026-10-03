@@ -1,0 +1,15 @@
+# Read complete lookup
+| inputlookup pakistan_ip_lookup
+
+# Selected fields
+| inputlookup pakistan_ip_lookup
+| table ip_address department city country threat_level
+
+# Count by threat level
+| inputlookup pakistan_ip_lookup
+| stats count by threat_level
+
+# High-risk records
+| inputlookup pakistan_ip_lookup
+| search threat_level="High"
+| table ip_address department city country threat_level

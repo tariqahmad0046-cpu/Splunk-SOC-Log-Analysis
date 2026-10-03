@@ -1,0 +1,3 @@
+index="main" EventCode=4688
+| stats count by host
+| sort - count
