@@ -1,0 +1,51 @@
+ip_address,department,city,province,country,device_type,ip_type,network_tag,location_site,assigned_admin,status,threat_level
+111.68.96.237,National Electric Power Regulatory Authority (NEPRA),Islamabad,ICT,Pakistan,Core Router,Public/WAN,HEC-NET,HQ-Server-Room,SysAdmin_116,Under Maintenance,Low
+203.128.0.182,Pakistan Revenue Automation Limited (PRAL),Faisalabad,Punjab,Pakistan,Firewall Appliance,Public/WAN,Nayatel-Corporate,Industrial-Zone-Node,SysAdmin_147,Active,Low
+111.68.96.14,Special Communications Organization (SCO),Faisalabad,Punjab,Pakistan,Core Router,Public/WAN,HEC-NET,Industrial-Zone-Node,SysAdmin_150,Active,Medium
+175.107.0.247,National CERT Pakistan,Quetta,Balochistan,Pakistan,Core Router,Public/WAN,CyberNet-Enterprise,Balochistan-Regional-Office,SysAdmin_113,Under Maintenance,High
+202.163.64.70,Special Communications Organization (SCO),Quetta,Balochistan,Pakistan,Intrusion Detection System,Public/WAN,PTCL-Gov-Core,Balochistan-Regional-Office,SysAdmin_127,Active,Critical
+202.163.64.218,Cyber Crime Wing - FIA,Karachi,Sindh,Pakistan,Core Router,Public/WAN,PTCL-Gov-Core,Data-Center-South,SysAdmin_155,Active,Medium
+111.68.96.95,Pakistan Revenue Automation Limited (PRAL),Karachi,Sindh,Pakistan,Intrusion Detection System,Public/WAN,HEC-NET,Data-Center-South,SysAdmin_198,Active,Critical
+203.128.0.222,Higher Education Commission (HEC),Karachi,Sindh,Pakistan,Database Server,Public/WAN,Nayatel-Corporate,Data-Center-South,SysAdmin_137,Active,Low
+203.128.0.57,Ministry of Defense - Cyber Wing,Peshawar,KPK,Pakistan,Database Server,Public/WAN,Nayatel-Corporate,KPK-Govt-Datacenter,SysAdmin_105,Active,Critical
+203.128.0.237,National Database and Registration Authority (NADRA),Faisalabad,Punjab,Pakistan,Domain Controller,Public/WAN,Nayatel-Corporate,Industrial-Zone-Node,SysAdmin_124,Active,High
+175.107.0.205,Pakistan Atomic Energy Commission (PAEC),Lahore,Punjab,Pakistan,Mail Gateway,Public/WAN,CyberNet-Enterprise,Regional-Node-Central,SysAdmin_118,Active,Low
+10.100.210.180,National CERT Pakistan,Lahore,Punjab,Pakistan,Intrusion Detection System,Private/Internal,Govt-Internal-WAN,Regional-Node-Central,SysAdmin_138,Active,Critical
+10.200.71.186,Pakistan Revenue Automation Limited (PRAL),Rawalpindi,Punjab,Pakistan,Intrusion Detection System,Private/Internal,Secure-Internal-Subnet,Operations-Center,SysAdmin_172,Under Maintenance,Critical
+182.180.0.204,Ministry of Defense - Cyber Wing,Lahore,Punjab,Pakistan,DMZ Web Server,Public/WAN,NTC-National-Telecomm,Regional-Node-Central,SysAdmin_115,Active,Low
+175.107.0.185,National CERT Pakistan,Peshawar,KPK,Pakistan,DMZ Web Server,Public/WAN,CyberNet-Enterprise,KPK-Govt-Datacenter,SysAdmin_181,Active,High
+10.100.78.243,Ministry of Defense - Cyber Wing,Faisalabad,Punjab,Pakistan,Core Router,Private/Internal,Govt-Internal-WAN,Industrial-Zone-Node,SysAdmin_144,Active,High
+111.68.96.47,Pakistan Telecommunication Authority (PTA),Quetta,Balochistan,Pakistan,VPN Gateway,Public/WAN,HEC-NET,Balochistan-Regional-Office,SysAdmin_168,Active,High
+203.128.0.70,Pakistan Telecommunication Authority (PTA),Peshawar,KPK,Pakistan,Database Server,Public/WAN,Nayatel-Corporate,KPK-Govt-Datacenter,SysAdmin_115,Active,High
+202.163.64.10,Ministry of Information Technology & Telecom,Quetta,Balochistan,Pakistan,Domain Controller,Public/WAN,PTCL-Gov-Core,Balochistan-Regional-Office,SysAdmin_134,Active,Medium
+111.68.96.24,Special Communications Organization (SCO),Rawalpindi,Punjab,Pakistan,Firewall Appliance,Public/WAN,HEC-NET,Operations-Center,SysAdmin_119,Active,Low
+202.163.64.155,Pakistan Post Cyber Division,Faisalabad,Punjab,Pakistan,Core Router,Public/WAN,PTCL-Gov-Core,Industrial-Zone-Node,SysAdmin_137,Active,Medium
+182.180.0.114,Pakistan Post Cyber Division,Islamabad,ICT,Pakistan,Database Server,Public/WAN,NTC-National-Telecomm,HQ-Server-Room,SysAdmin_146,Active,Critical
+10.200.28.175,Pakistan Atomic Energy Commission (PAEC),Peshawar,KPK,Pakistan,Firewall Appliance,Private/Internal,Secure-Internal-Subnet,KPK-Govt-Datacenter,SysAdmin_160,Active,Critical
+10.100.225.14,National Cyber Crime Investigation Agency (NCCIA),Karachi,Sindh,Pakistan,DMZ Web Server,Private/Internal,Govt-Internal-WAN,Data-Center-South,SysAdmin_179,Under Maintenance,High
+10.100.69.81,Special Communications Organization (SCO),Lahore,Punjab,Pakistan,VPN Gateway,Private/Internal,Govt-Internal-WAN,Regional-Node-Central,SysAdmin_182,Active,Medium
+10.100.156.45,Ministry of Defense - Cyber Wing,Quetta,Balochistan,Pakistan,VPN Gateway,Private/Internal,Govt-Internal-WAN,Balochistan-Regional-Office,SysAdmin_126,Active,Critical
+203.128.0.122,Cyber Crime Wing - FIA,Multan,Punjab,Pakistan,Domain Controller,Public/WAN,Nayatel-Corporate,South-Punjab-Hub,SysAdmin_129,Active,Medium
+10.200.57.106,Special Communications Organization (SCO),Faisalabad,Punjab,Pakistan,Domain Controller,Private/Internal,Secure-Internal-Subnet,Industrial-Zone-Node,SysAdmin_116,Active,Medium
+175.107.0.115,National CERT Pakistan,Rawalpindi,Punjab,Pakistan,Intrusion Detection System,Public/WAN,CyberNet-Enterprise,Operations-Center,SysAdmin_193,Under Maintenance,Critical
+10.100.220.201,Special Communications Organization (SCO),Lahore,Punjab,Pakistan,Firewall Appliance,Private/Internal,Govt-Internal-WAN,Regional-Node-Central,SysAdmin_156,Active,Low
+10.200.196.37,Ministry of Information Technology & Telecom,Multan,Punjab,Pakistan,Intrusion Detection System,Private/Internal,Secure-Internal-Subnet,South-Punjab-Hub,SysAdmin_173,Active,High
+203.128.0.92,Ministry of Information Technology & Telecom,Quetta,Balochistan,Pakistan,Firewall Appliance,Public/WAN,Nayatel-Corporate,Balochistan-Regional-Office,SysAdmin_141,Active,Critical
+202.163.64.215,Pakistan Post Cyber Division,Faisalabad,Punjab,Pakistan,Intrusion Detection System,Public/WAN,PTCL-Gov-Core,Industrial-Zone-Node,SysAdmin_186,Active,Medium
+202.163.64.79,National Database and Registration Authority (NADRA),Karachi,Sindh,Pakistan,Core Router,Public/WAN,PTCL-Gov-Core,Data-Center-South,SysAdmin_144,Active,Critical
+10.200.108.79,State Bank of Pakistan (SBP),Multan,Punjab,Pakistan,Domain Controller,Private/Internal,Secure-Internal-Subnet,South-Punjab-Hub,SysAdmin_106,Active,Critical
+182.180.0.57,Pakistan Post Cyber Division,Peshawar,KPK,Pakistan,Core Router,Public/WAN,NTC-National-Telecomm,KPK-Govt-Datacenter,SysAdmin_129,Under Maintenance,Low
+175.107.0.23,Cyber Crime Wing - FIA,Rawalpindi,Punjab,Pakistan,Core Router,Public/WAN,CyberNet-Enterprise,Operations-Center,SysAdmin_139,Active,Critical
+203.128.0.173,National CERT Pakistan,Peshawar,KPK,Pakistan,DMZ Web Server,Public/WAN,Nayatel-Corporate,KPK-Govt-Datacenter,SysAdmin_199,Active,Low
+111.68.96.66,National CERT Pakistan,Peshawar,KPK,Pakistan,VPN Gateway,Public/WAN,HEC-NET,KPK-Govt-Datacenter,SysAdmin_109,Active,Medium
+10.100.82.105,Pakistan Revenue Automation Limited (PRAL),Islamabad,ICT,Pakistan,Mail Gateway,Private/Internal,Govt-Internal-WAN,HQ-Server-Room,SysAdmin_163,Active,Low
+202.163.64.161,Pakistan Post Cyber Division,Multan,Punjab,Pakistan,VPN Gateway,Public/WAN,PTCL-Gov-Core,South-Punjab-Hub,SysAdmin_133,Under Maintenance,Medium
+10.100.120.156,Ministry of Defense - Cyber Wing,Rawalpindi,Punjab,Pakistan,Database Server,Private/Internal,Govt-Internal-WAN,Operations-Center,SysAdmin_138,Under Maintenance,Medium
+111.68.96.81,State Bank of Pakistan (SBP),Rawalpindi,Punjab,Pakistan,Domain Controller,Public/WAN,HEC-NET,Operations-Center,SysAdmin_177,Active,Low
+202.163.64.43,Pakistan Post Cyber Division,Islamabad,ICT,Pakistan,Intrusion Detection System,Public/WAN,PTCL-Gov-Core,HQ-Server-Room,SysAdmin_113,Under Maintenance,High
+175.107.0.43,State Bank of Pakistan (SBP),Peshawar,KPK,Pakistan,Firewall Appliance,Public/WAN,CyberNet-Enterprise,KPK-Govt-Datacenter,SysAdmin_128,Active,Low
+111.68.96.231,Ministry of Information Technology & Telecom,Rawalpindi,Punjab,Pakistan,Core Router,Public/WAN,HEC-NET,Operations-Center,SysAdmin_108,Active,Medium
+175.107.0.167,Ministry of Defense - Cyber Wing,Islamabad,ICT,Pakistan,VPN Gateway,Public/WAN,CyberNet-Enterprise,HQ-Server-Room,SysAdmin_142,Under Maintenance,Medium
+10.100.169.114,Pakistan Revenue Automation Limited (PRAL),Peshawar,KPK,Pakistan,VPN Gateway,Private/Internal,Govt-Internal-WAN,KPK-Govt-Datacenter,SysAdmin_111,Active,High
+202.163.64.226,National Cyber Crime Investigation Agency (NCCIA),Quetta,Balochistan,Pakistan,VPN Gateway,Public/WAN,PTCL-Gov-Core,Balochistan-Regional-Office,SysAdmin_118,Active,Critical
+202.163.64.38,State Bank of Pakistan (SBP),Peshawar,KPK,Pakistan,Intrusion Detection System,Public/WAN,PTCL-Gov-Core,KPK-Govt-Datacenter,SysAdmin_115,Active,Medium
